@@ -1,0 +1,2 @@
+2024-04-17 16:32:38,882 - INFO - Finding element by locator: ('css selector', 'div.input-group > input.form-control.input-lg')
+2024-04-17 16:32:38,990 - INFO - Finding element by locator: ('css selector', 'div.input-group span.input-group-btn > button.btn.btn-default.btn-lg')

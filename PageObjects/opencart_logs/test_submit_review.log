@@ -1,0 +1,2 @@
+2024-04-17 16:32:43,325 - INFO - Finding element by locator: ('xpath', "//a[contains(text(),'Отзывов (0)')]")
+2024-04-17 16:32:43,588 - INFO - Finding element by locator: ('id', 'input-review')
